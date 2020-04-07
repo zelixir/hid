@@ -1,0 +1,5 @@
+{
+  "terminal.integrated.shellArgs.windows": [
+  ],
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+}
